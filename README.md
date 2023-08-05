@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining your project's what, why, and how. Use the following questions as a guide:
-
 - What was your motivation?: To test what I have learned with javascript, as well as build on my skills in HTML, CSS 
 
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment."): To showcase my skills and what I have learned from the class.
