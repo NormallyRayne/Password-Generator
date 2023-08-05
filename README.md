@@ -40,6 +40,6 @@ N/A
 
 N/A
 
-##Website
-
+## Website
+Try it out today![Website](https://normallyrayne.github.io/Password-Generator/).
 
