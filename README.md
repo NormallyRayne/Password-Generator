@@ -41,5 +41,5 @@ N/A
 N/A
 
 ## Website
-Try it out today![Website](https://normallyrayne.github.io/Password-Generator/).
+Try it out today! [Website](https://normallyrayne.github.io/Password-Generator/).
 
